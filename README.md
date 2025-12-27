@@ -21,7 +21,8 @@ Docker: создание и управление контейнерами
 5. Запустили контейнер из собранного образа
    Открыли веб-браузер и перешли по адресу http://localhost:1234/
 
-<img width="974" height="189" alt="image" src="https://github.com/user-attachments/assets/54cb9518-228d-4954-a612-304ce8986672" />
+<img width="780" height="295" alt="image" src="https://github.com/user-attachments/assets/697065fc-2326-4a2f-a845-01db9225e5e3" />
+
 
 
 6. В той же директории создали файл docker-compose.yml для развертывания этого приложения вместе с базой данных PostgreSQL, предусмотреd проброс порта 1234, а также возможность расширения или подключения сторонних сервисов при необходимости
@@ -35,4 +36,5 @@ Docker: создание и управление контейнерами
 
 Итог
 
-  <img width="780" height="295" alt="image" src="https://github.com/user-attachments/assets/fc67df0c-8766-41a1-bc3d-9d3076b46079" />
+  <img width="822" height="423" alt="image" src="https://github.com/user-attachments/assets/e6af19b8-c413-468f-b373-829f6b7910b3" />
+
