@@ -30,9 +30,9 @@ Docker: создание и управление контейнерами
 
 
 
-8. Далее запускаем стек через docker-copmose 
+7. Далее запускаем стек через docker-copmose 
 
 
 Итог
 
-<img width="780" height="295" alt="image" src="https://github.com/user-attachments/assets/fc67df0c-8766-41a1-bc3d-9d3076b46079" />
+  <img width="780" height="295" alt="image" src="https://github.com/user-attachments/assets/fc67df0c-8766-41a1-bc3d-9d3076b46079" />
