@@ -1,24 +1,25 @@
-Docker: создание и управление контейнерами
+##Docker: создание и управление контейнерами
 
 ## 1. Цель работы
 
 Целью работы является изучение работы с программным обеспечением Docker для автоматизации развертывания и управления приложениями в средах с поддержкой контейнеризации.
 
-1. установил Docker destop
+1. Установил Docker destop
 2. Создали рабочую директорию
+   
   <img width="974" height="98" alt="image" src="https://github.com/user-attachments/assets/203aa93f-7c03-4ae2-8bbe-de0c9697a761" />
 
-3. В этой же директории создали Dockerfile
+4. В этой же директории создали Dockerfile
 
 <img width="974" height="481" alt="image" src="https://github.com/user-attachments/assets/fbf0369b-a1c7-461e-bbe1-328f7140e58d" />
 
-
-4. Создали образ Docker на основе созданного Dockerfile и проверили, что образ появился в системе 
+5. Создали образ Docker на основе созданного Dockerfile и проверили, что образ появился в системе 
 
 <img width="974" height="481" alt="image" src="https://github.com/user-attachments/assets/f309d85a-8332-44e9-b5e9-2fa222d962ec" />
 
 
 5. Запустили контейнер из собранного образа
+   
    Открыли веб-браузер и перешли по адресу http://localhost:1234/
 
 <img width="780" height="295" alt="image" src="https://github.com/user-attachments/assets/697065fc-2326-4a2f-a845-01db9225e5e3" />
