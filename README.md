@@ -19,21 +19,19 @@
 
 
 5. Запустили контейнер из собранного образа
-   
+
+   <img width="974" height="189" alt="image" src="https://github.com/user-attachments/assets/a0ac1272-29b3-4788-91fc-e8b2b48bda28" />
+
    Открыли веб-браузер и перешли по адресу http://localhost:1234/
 
 <img width="780" height="295" alt="image" src="https://github.com/user-attachments/assets/697065fc-2326-4a2f-a845-01db9225e5e3" />
-
 
 
 6. В той же директории создали файл docker-compose.yml для развертывания этого приложения вместе с базой данных PostgreSQL, предусмотреd проброс порта 1234, а также возможность расширения или подключения сторонних сервисов при необходимости
 
    <img width="974" height="695" alt="image" src="https://github.com/user-attachments/assets/a9e3d610-afc5-4f76-a015-a8a409e8db56" />
 
-
-
-8. Далее запускаем стек через docker-copmose 
-
+7. Далее запускаем стек через docker-copmose 
 
 Итог
 
